@@ -1,10 +1,6 @@
-body {
-  background: url("background.jpeg");
-  background-repeat: no-repeat;
-}
-
 .container-1 {
   border: 10px solid black;
+  justify-content: space-around;
 }
 
 .flex-box-container-1 {
