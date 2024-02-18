@@ -5,4 +5,5 @@ function ageInDays() {
   var textAnswer = document.createTextNode("you are " + agedays + " days old");
   h1.setAttribute("id", "agedays");
   h1.appendChild(textAnswer);
-  document.getElementById("flex-box-result").appendChild(h1); }
+  document.getElementById("flex-box-result").appendChild(h1); 
+}
